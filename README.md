@@ -1,11 +1,10 @@
-# Savvy Coders Homework Repo
+# Claire Luning
 
-## Overview
-With this template repo, we can create a separate repo for Homework submissions while still accessing our Prettier, linting, serving NPM Modules.
+## SavvyCoders January 2021 Student
 
-## Instructions
-0. Make sure your development environment is set-up according to [these instructions](https://github.com/savvy-coders/sc-curriculum/tree/master/Week0-DevelopmentEnvironment).
-1. Use this template via the button above.
-2. Clone your new repo to your machine.
-3. In the terminal, run `npm install` inside the directory.
-4. Add folders and files as the Homework calls for it.
+### Goals for this Course
+
+- Learn to code!
+- Get a job as a Junior Web Developer
+- Expand my professional network
+- Become Agile certified
