@@ -6,7 +6,7 @@ console.log(numberOfToppings);
 console.log(typeof pizzaPlace);
 console.log(typeof numberOfToppings);
 
-`"${pizzaPlace} is the home of ${numberOfToppings} lucky pizza toppings!"`
+console.log(`"${pizzaPlace} is the home of ${numberOfToppings} lucky pizza toppings!"`);
 
 if (numberOfToppings < 10) {
   console.log("Quality, not quantity.");
