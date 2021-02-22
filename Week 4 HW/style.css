@@ -1,0 +1,58 @@
+header {
+    font-family: 'Concert One', cursive;
+    color: #ffbc42;
+    font-size: larger;
+}
+
+#main {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: bolder;
+}
+
+h2 {
+    font-family: 'Concert One', cursive;
+    color: #ffbc42;
+    text-align: right;
+}
+
+.welcome {
+    text-align: center;
+    font-family: 'Concert One', cursive;
+    font-size:larger;
+    color: #8F2d56;
+}
+
+img {
+    border: 5px solid #73d2de;
+}
+
+h4 {
+    color: #218380;
+    font-weight: bold;
+    margin: 5px;
+    font-family: 'Concert One', cursive;
+}
+
+div,
+li {
+    font-weight: light;
+    padding: 10px 15px;
+}
+
+h5 {
+    text-align: left;
+    font-family: 'Concert One', cursive;
+    font-size: larger;
+    color: #8F2d56;
+}
+
+a {
+    padding: 20px;
+}
+
+footer {
+    font-family: 'Concert One', cursive;
+    color: #ffbc42;
+    font-size: larger;
+    text-align: center;
+}
