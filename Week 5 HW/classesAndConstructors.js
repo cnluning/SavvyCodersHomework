@@ -14,7 +14,7 @@ class spookyGhost extends scaryMonster {
     }
 }
 
-class evilDemon extends spookyGhost {
+class evilDemon extends scaryMonster {
     constructor (name, type, location, wickedness) {
         super(name, type, location);
         this.wickedness = wickedness;
