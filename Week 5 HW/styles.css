@@ -1,0 +1,43 @@
+@media (min-width: 375px) {
+}
+
+html {
+  background-color: antiquewhite;
+  display: flex;
+}
+
+body {
+  text-align: center;
+  font-size: 18px;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+img {
+  height: 190px;
+}
+
+div {
+  border: 2px solid burlywood;
+  margin: 10px;
+  align-items: center;
+}
+
+#introPic {
+  float: left;
+}
+
+#bio {
+  justify-content: flex-end;
+}
+
+#bio > li {
+  padding: 2px;
+  align-self: flex-start;
+}
+
+#pro {
+  width: auto;
+}
